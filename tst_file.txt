@@ -1,2 +1,3 @@
 some first file
 Add the second line.
+This is a third line of text in this document.
